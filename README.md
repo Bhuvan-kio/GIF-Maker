@@ -3,8 +3,12 @@
 A simple Python script to create an animated GIF from a sequence of PNG images. This tool ensures that images named numerically (e.g., `frame1.png`, `frame2.png`, `frame10.png`) are sorted correctly for a smooth animation.
 
 ---
+## 🚀 Demo
 
+![GIF Maker Demo](https://raw.githubusercontent.com/Bhuvan-kio/GIF-Maker/main/negan.gif)
 ## ✨ Features
+
+---
 
 -   **Converts PNG Images**: Reads all `.png` files from a specified folder.
 -   **Natural Sorting**: Correctly sorts frames to ensure proper animation sequence.
