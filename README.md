@@ -5,7 +5,7 @@ A simple Python script to create an animated GIF from a sequence of PNG images. 
 ---
 ## 🚀 Demo
 
-![GIF Maker Demo]([https://raw.githubusercontent.com/Bhuvan-kio/GIF-Maker/main/negan.gif](https://raw.githubusercontent.com/Bhuvan-kio/GIF-Maker/refs/heads/main/Output.gif))
+![GIF Maker Demo](https://raw.githubusercontent.com/Bhuvan-kio/GIF-Maker/refs/heads/main/Output.gif)
 ## ✨ Features
 
 ---
