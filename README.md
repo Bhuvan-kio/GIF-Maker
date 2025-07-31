@@ -6,9 +6,10 @@ A simple Python script to create an animated GIF from a sequence of PNG images. 
 ## 🚀 Demo
 
 ![GIF Maker Demo](https://raw.githubusercontent.com/Bhuvan-kio/GIF-Maker/refs/heads/main/Output.gif)
-## ✨ Features
 
 ---
+## ✨ Features
+
 
 -   **Converts PNG Images**: Reads all `.png` files from a specified folder.
 -   **Natural Sorting**: Correctly sorts frames to ensure proper animation sequence.
@@ -57,7 +58,3 @@ Before you run the script, make sure you have Python 3 and the necessary librari
 The script will find the images, create the GIF, and save it to your specified output path.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
