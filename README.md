@@ -1,14 +1,14 @@
-# 🖼️ PNG Sequence to GIF Converter
+# PNG Sequence to GIF Converter
 
 A simple Python script to create an animated GIF from a sequence of PNG images. This tool ensures that images named numerically (e.g., `frame1.png`, `frame2.png`, `frame10.png`) are sorted correctly for a smooth animation.
 
 ---
-## 🚀 Demo
+## Demo
 
 ![GIF Maker Demo](https://raw.githubusercontent.com/Bhuvan-kio/GIF-Maker/refs/heads/main/Output.gif)
 
 ---
-## ✨ Features
+## Features
 
 
 -   **Converts PNG Images**: Reads all `.png` files from a specified folder.
@@ -18,7 +18,7 @@ A simple Python script to create an animated GIF from a sequence of PNG images. 
 
 ---
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 Before you run the script, make sure you have Python 3 and the necessary libraries installed.
 
@@ -30,7 +30,7 @@ Before you run the script, make sure you have Python 3 and the necessary librari
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1.  **Add Images**: Place all your `.png` image files into a single directory.
 
