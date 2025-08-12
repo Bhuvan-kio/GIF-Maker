@@ -12,7 +12,7 @@ import os                 # For interacting with the file system (e.g., listing 
 import natsort            # For sorting filenames in natural order
 
 # --- Configuration ---
-# ❗️ EDIT THESE VALUES
+# EDIT THESE VALUES
 # Set the path to the directory containing the source PNG images.
 img_dir = "path/to/your/images"
 
